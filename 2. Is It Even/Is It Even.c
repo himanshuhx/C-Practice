@@ -13,7 +13,6 @@ int main(){
 
     } else {
         printf("Integer %i is an odd number", x);
-	};
-    system ("pause");
+	}
     return 0;
-};
+}
